@@ -1,0 +1,1 @@
+protoc --proto_path="C:\Git_Repo_Clones\Esp32ProtobufUDP\proto" --nanopb_out="C:\Git_Repo_Clones\Esp32ProtobufUDP\generated" "C:\Git_Repo_Clones\Esp32ProtobufUDP\proto\data.proto"

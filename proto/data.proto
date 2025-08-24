@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message SensorData {
+    float sine_value = 1;
+    int32 analog_value = 2;
+}
